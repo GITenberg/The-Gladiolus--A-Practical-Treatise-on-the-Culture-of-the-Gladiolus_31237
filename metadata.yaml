@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35084'
     url: http://www.gutenberg.org/2009/agents/35084
 description: Second Edition, with Addenda
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31237#The-Gladiolus--A-Practical-Treatise-on-the-Culture-of-the-Gladiolus
 gutenberg_issued: '2010-02-09'
 gutenberg_type: Text
 identifiers:
