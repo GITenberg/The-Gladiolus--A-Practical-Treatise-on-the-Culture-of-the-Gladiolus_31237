@@ -1,0 +1,27 @@
+_repo: The-Gladiolus--A-Practical-Treatise-on-the-Culture-of-the-Gladiolus_31237
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crawford, Matthew
+    alias: Crawford, M. (Matthew)
+    birthdate: 1839
+    deathdate: 1918
+    gutenberg_agent_id: '35084'
+    url: http://www.gutenberg.org/2009/agents/35084
+description: Second Edition, with Addenda
+gutenberg_issued: '2010-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31237'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Gladiolus'
+title: 'The Gladiolus: A Practical Treatise on the Culture of the Gladiolus'
+url: http://www.gutenberg.org/ebooks/31237
